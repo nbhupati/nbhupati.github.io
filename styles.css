@@ -8,9 +8,11 @@ body {
     text-align: center;
 }
 .about_me{
-    font-weight: normal;
     text-align: left;
 }
 .description{
+    text-align: left;
+}
+.recent{
     text-align: left;
 }
