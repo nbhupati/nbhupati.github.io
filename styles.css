@@ -3,3 +3,14 @@ body {
     background: gainsboro;
     text-align: center;
 }
+.name{
+    font-weight: bold;
+    text-align: center;
+}
+.about_me{
+    font-weight: bold;
+    text-align: left;
+}
+.description{
+    text-align: left;
+}
