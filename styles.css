@@ -9,6 +9,7 @@ body {
 }
 .about_me{
     /*font-weight: bold;*/
+    font-weight: normal;
     text-align: left;
 }
 .description{
